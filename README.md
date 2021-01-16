@@ -36,7 +36,7 @@ Beer object example:
 
 [![CircleCI](https://circleci.com/gh/kawgh1/micro-beer-order-service.svg?style=svg)](https://circleci.com/gh/kawgh1/micro-beer-order-service)
 
-# MSSC Beer Order Service
+# Micro Beer Order Service
 
 ## Steps for Deconstruction into  Microservices
 #### 1. Dependency Management
