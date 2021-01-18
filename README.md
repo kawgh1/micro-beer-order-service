@@ -48,6 +48,9 @@ Beer object example:
 #### 7. Integration Testing Sagas
 #### 8. Compensating Transactions
 #### 9. Spring Cloud Gateway
+#### 10. Service Registration 
+#### 11. Service Discovery
+#### 12. Circuit Breaker
 
 - # Refactoring Model to Common Package
     - ### Goal - refactor package structure in all 3 microservices to share a common 'Brewery' package for all the Java objects that are shared between the microservices

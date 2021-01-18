@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Optional;
 import java.util.UUID;
 
-@ConfigurationProperties(prefix = "com.kwgdev", ignoreUnknownFields = false)
+@ConfigurationProperties(prefix = "com.kwgdev.brewery.beer-inventory-service-host", ignoreUnknownFields = false)
 @Service
 public class BeerServiceImpl implements BeerService {
 
